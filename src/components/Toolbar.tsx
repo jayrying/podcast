@@ -73,7 +73,7 @@ const Toolbar = ({title,theme, toggleDrawer }: IToolbarProps) => (
     <nav onClick={toggleDrawer}>
       <div className={menuContainer}>
         <Icons color={theme.text} icon="menu" size={24} />
-        <span>{title} Podcast from malasyia</span>
+        <span>{title}</span>
         {/* <p>this is this</p> */}
       </div>
     </nav>
