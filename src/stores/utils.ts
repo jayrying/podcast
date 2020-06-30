@@ -43,7 +43,7 @@ const preferredTheme = () => {
 
 const defaultAppState: IAppState = {
   ...preferredTheme(),
-  title: 'Podcst',
+  title: 'Podcast',
 };
 
 /**

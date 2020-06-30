@@ -5,7 +5,7 @@ const { ensureDir, saveFile } = require('./common');
 const outDir = join(process.cwd(), 'public');
 const outPath = join(outDir, 'manifest.json');
 
-const appName = process.env.PODCST_APP || 'Podcst';
+const appName = process.env.PODCST_APP || 'Podcast';
 const baseUrl = process.env.PODCST_URL || 'play.podcst.app';
 const cdnUrl = baseUrl.replace('play', 'static');
 

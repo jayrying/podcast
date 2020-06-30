@@ -159,7 +159,7 @@ export const app = (
   state: IAppState = {
     mode: 'dark',
     theme: ThemeProvider('dark'),
-    title: 'Podcst',
+    title: 'Podcast',
   },
   action: AppActions,
 ): IAppState => {

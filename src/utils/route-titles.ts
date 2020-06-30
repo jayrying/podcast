@@ -11,6 +11,6 @@ export const getTitle = (route: string): string => {
   } else if (route.indexOf('/recents') > -1) {
     return 'Recents';
   } else {
-    return 'Podcst';
+    return 'Podcast';
   }
 };

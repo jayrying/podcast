@@ -1,5 +1,5 @@
 {
-  "name": "podcst-web",
+  "name": "podcast-web",
   "version": "0.22.3",
   "main": "dist/index.js",
   "license": "MIT",

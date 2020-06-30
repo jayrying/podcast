@@ -25,27 +25,27 @@ const cdnUrl = 'https://podcast.com.my/';
 const routes = [
   {
     page: '/',
-    title: 'Podcst',
+    title: 'Podcast',
   },
   {
     page: '/feed/top',
-    title: 'Podcst - Top',
+    title: 'Podcast - Top',
   },
   {
     page: '/episodes',
-    title: 'Podcst - Feed',
+    title: 'Podcast - Feed',
   },
   {
     page: '/episode',
-    title: 'Podcst - Episode',
+    title: 'Podcast - Episode',
   },
   {
     page: '/subs',
-    title: 'Podcst - Subscriptions',
+    title: 'Podcast - Subscriptions',
   },
   {
     page: '/settings',
-    title: 'Podcst - Settings',
+    title: 'Podcast - Settings',
   },
   {
     page: '/recents',
